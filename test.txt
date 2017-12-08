@@ -1,1 +1,1 @@
-sudo git clone https://github.com/pawel-f/testing.git /root/testing && /root/testing/setup_f2.sh
+sudo git clone https://github.com/pawel-f/testing.git /root/testing && sudo /root/testing/setup_f2.sh
